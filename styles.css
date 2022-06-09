@@ -1,1 +1,11 @@
-/* your code here */
+.container{
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.data,.data2,.data3,.data4{
+    font-size: x-large;
+    color: rgb(165, 161, 161);
+    padding-left: 30px;
+    margin-top: 10px;
+}
